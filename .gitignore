@@ -1,2 +1,5 @@
 .vscode/
 shapes.jpg
+build/
+log/
+install/
